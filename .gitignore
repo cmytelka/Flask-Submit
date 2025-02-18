@@ -1,3 +1,6 @@
 /Final_Project.code-workspace
 /connect.py
 /create_db.py
+__pycache__/
+.venv
+venv/
